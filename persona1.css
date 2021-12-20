@@ -1,0 +1,30 @@
+body{
+	font-family: sans-serif;
+	margin: 0px;
+	padding: 0px
+	color: #404040;
+}
+#top {
+	height: 200px;
+	background-color: black;
+}
+.contenedor {
+	width: 978 px;
+	margin: 0 auto;
+nav {
+	margin-top: 10px;
+}
+nav a {
+	text-decoration: none;
+	color: #eee;
+	padding: 10px 20px;
+}
+#post {
+	width: 75%;
+	float: left;
+	line-height: 1.5;
+}
+#sidebar {
+	width: 22%;
+	float: right;
+}
